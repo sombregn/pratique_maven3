@@ -57,7 +57,7 @@ Rdv dans les modules
 - **mvn spring-boot:run**
 - **Démarrez l'App Angular**
 - **cd web**
-- **npm i**
+- **npm install || npm i**
 - **ng serve**
 - **Vous pouvez également lancer l'application directement depuis votre IDE en appuyant sur le bouton Run.**
 
